@@ -1,5 +1,10 @@
 # Airflow 2.0.0
 
+## Log in airlfow user in WSL on Windows
+```
+su - airflow
+```
+
 ## Restart postgresql database first
 ```
 sudo service postgresql restart
