@@ -19,3 +19,4 @@ airflow webserver
 ```
 airflow scheduler
 ```
+## Log in localhost:8080 in a browser
