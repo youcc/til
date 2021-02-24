@@ -6,3 +6,7 @@ git tag -a v1.3.1 -m "My new version"
 ```
 git push origin v1.3.1
 ```
+# Show tag comments
+```
+git show v1.3.1
+```
