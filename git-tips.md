@@ -10,6 +10,7 @@ git push origin v1.3.1
 ```
 git show v1.3.1
 ```
+
 # Delete a local Git tag
 ```
 git tag -d v1.3.1
@@ -17,8 +18,4 @@ git tag -d v1.3.1
 # Delete a remote Git tag
 ```
 git push --delete origin v1.3.1
-```
-# Delete a local tag
-```
-git tag -d v1.3.1
 ```
