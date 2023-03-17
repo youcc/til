@@ -15,4 +15,5 @@ Inspired by [Josh Branchaud's TIL](https://github.com/jbranchaud/til) to fix my 
 * [SAS](#sas)
 
 ### SAS
-- [Set pagesize option](sas/set_pagesize.md)
+- [Set linesize option](sas/linesize.md)
+- [Set pagesize option](sas/pagesize.md)
