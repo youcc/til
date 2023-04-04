@@ -19,3 +19,4 @@ Inspired by [Josh Branchaud's TIL](https://github.com/jbranchaud/til) to fix my 
 ### SAS
 - [Set linesize option](sas/linesize.md)
 - [Set pagesize option](sas/pagesize.md)
+- [Verify SAS expiration date](sas/license.md)
