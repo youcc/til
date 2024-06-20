@@ -1,4 +1,4 @@
-# Airflow 2.0.0
+# How to start Airflow 2.0.0 in WSL
 
 ## Log in airlfow user in WSL on Windows
 ```

@@ -12,11 +12,19 @@ Inspired by [Josh Branchaud's TIL](https://github.com/jbranchaud/til) to fix my 
 * [Databricks](#databricks)
 * [Docker](#docker)
 * [Git](#git)
+* [Linux](#linux)
 * [PowerShell](#PowerShell)
 * [R](#r)
 * [SAS](#sas)
 
 ---
+
+### airflow
+- [How to start airflow 2.0.0 in WSL](airflow/start-airflow.md)
+
+
+### Linux
+- [Change user](linux/change-user.md)
 
 ### databricks
 - [How to install databricks-connect in Linux](databricks/install_connect_linux.md)
