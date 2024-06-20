@@ -18,6 +18,11 @@ Inspired by [Josh Branchaud's TIL](https://github.com/jbranchaud/til) to fix my 
 
 ---
 
+### databricks
+- [How to install databricks-connect in Linux](databricks/install_connect_linux.md)
+- [What is lateral view](databricks/lateral_view.md)
+
+
 ### Git
 - [commit related](git/commit.md)
 - [tag related](git/tag.md)
