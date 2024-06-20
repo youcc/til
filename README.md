@@ -17,6 +17,12 @@ Inspired by [Josh Branchaud's TIL](https://github.com/jbranchaud/til) to fix my 
 * [SAS](#sas)
 
 ---
+
+### Git
+- [commit related](git/commit.md)
+- [tag related](git/tag.md)
+
+
 ### PowerShell
 - [Check mapped drives](powershell/check_mapped_drives.md)
 
