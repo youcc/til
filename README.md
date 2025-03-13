@@ -8,7 +8,7 @@ Inspired by [Josh Branchaud's TIL](https://github.com/jbranchaud/til) to fix my 
 
 ### Categories
 * [Airflow](#airflow)
-* [bash](#bash)
+* [C](#c)
 * [Databricks](#databricks)
 * [Docker](#docker)
 * [Git](#git)
@@ -22,9 +22,9 @@ Inspired by [Josh Branchaud's TIL](https://github.com/jbranchaud/til) to fix my 
 ### airflow
 - [How to start airflow 2.0.0 in WSL](airflow/start-airflow.md)
 
+### C
+- [Beej's Guide to C Programming](https://beej.us/guide/bgc/html/)
 
-### Linux
-- [Change user](linux/change-user.md)
 
 ### databricks
 - [How to install databricks-connect in Linux](databricks/install_connect_linux.md)
@@ -36,12 +36,18 @@ Inspired by [Josh Branchaud's TIL](https://github.com/jbranchaud/til) to fix my 
 - [tag related](git/tag.md)
 
 
+### Linux
+- [Change user](linux/change-user.md)
+
+
 ### PowerShell
 - [Check mapped drives](powershell/check_mapped_drives.md)
+
 
 ### R
 - [Convert tex to uppercase](r/uppercase.md)
 - [Replace string](r/replace_string.md)
+
 
 ### SAS
 - [Set linesize option](sas/linesize.md)
